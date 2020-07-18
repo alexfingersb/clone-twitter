@@ -14,7 +14,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 * [Yarn] - Yarn is a package manager that doubles down as project manager.
 * [ReactJS] - A JavaScript library for building user interfaces.
-
+* [Styled Components] - Use the best bits of ES6 and CSS to style your apps without stress.
+* [Styled Icons] - Popular icon packs like Font Awesome, Material Design, and Octicons, available as React Styled Components.
+* [Sticky Box] - Sticky Boxes with sensible behaviour if the content is bigger than the viewport.
 
 # Running the cloned project
 
@@ -44,10 +46,24 @@ Your app is ready to be deployed!
 - Use YARN to initialize your project and create package.json to store project dependencies.
 
 ### Create the project and go into the folder
+
+### Install dependencies
+
+``` bash
+# Add Styled Components
+yarn add styled-components
+
+# add Styled Components Types
+yarn add -D @types/styled-components
+
+# Add Styled Icons
+yarn add styled-icons
+
+# Add React Sticky Box
+yarn add react-sticky-box
+
 ```
-yarn create react-app clone-twitter --template typescript
-cd clone-twitter
-```
+
 
 ### Runs the app in the development mode
 
@@ -57,3 +73,6 @@ Open http://localhost:3000 to view it in the browser.
 
 [Yarn]:https://yarnpkg.com
 [ReactJS]:https://reactjs.org
+[Styled Components]:https://styled-components.com
+[Styled Icons]:https://styled-icons.js.org
+[Sticky Box]:https://react-sticky-box.codecks.io/
