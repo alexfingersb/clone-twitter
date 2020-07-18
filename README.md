@@ -64,13 +64,6 @@ yarn add react-sticky-box
 
 ```
 
-### Add ESLint
-
-```
-yarn add -D eslint
-yarn eslint --init
-```
-
 ### Runs the app in the development mode
 
 ### `yarn start`
@@ -86,6 +79,13 @@ Open http://localhost:3000 to view it in the browser.
     "singleQuote": true,
     "trailingComma": "es5"
 }
+```
+
+### Add and configure `ESLint`
+
+```
+yarn add -D eslint
+yarn eslint --init
 ```
 
 [yarn]: https://yarnpkg.com
