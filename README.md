@@ -81,7 +81,7 @@ Open http://localhost:3000 to view it in the browser.
 }
 ```
 
-### Add and configure `ESLint`
+## Add and configure `ESLint`
 
 ```
 yarn add -D eslint
