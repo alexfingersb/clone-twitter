@@ -18,7 +18,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Running the cloned project
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
