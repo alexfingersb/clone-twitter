@@ -2,6 +2,8 @@
 
 This is a simple project for study proposals. It was developed by [Rocketseat](https://rocketseat.com.br) and you cant watch the tutorial [Responsive Twitter with ReactJS | UI Clone](https://www.youtube.com/watch?v=K-8z_4xvT3o&t=456s)
 
+You can see it in action on clone-twitter-20.netlify.app
+
 ## Getting Started
 
 These instructions will get you a new project up and running on your local machine for development and testing purposes.
