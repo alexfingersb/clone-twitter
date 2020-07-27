@@ -16,11 +16,6 @@ import Avatar from '../Avatar';
 import Feed from '../Feed';
 
 const ProfilePage: React.FC = () => {
-  // Typescript function void
-  function handleClick(): void {
-    alert('Sorry but Profile Edition isn`t yet implemented!');
-  }
-
   // Typescript arrow function
   const editProfile = (): void => {
     alert('On click with arrow functions');
