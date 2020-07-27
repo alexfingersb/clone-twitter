@@ -49,6 +49,11 @@ Your app is ready to be deployed!
 
 ### Create the project and go into the folder
 
+```
+yarn create react-app clone-twitter --template typescript
+cd clone-twitter
+```
+
 ### Install dependencies
 
 ```bash
